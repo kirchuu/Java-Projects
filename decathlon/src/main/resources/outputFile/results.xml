@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Scoreboard>
+    <Participant>
+        <Place>1</Place>
+        <Name>John Smith</Name>
+        <Disciplines>
+            <HundredMetersRun>12.61</HundredMetersRun>
+            <LongJump>5.00</LongJump>
+            <ShotPut>9.22</ShotPut>
+            <HighJump>1.50</HighJump>
+            <FourHundredMetersRun>60.39</FourHundredMetersRun>
+            <HundredTenMetersHurdles>16.43</HundredTenMetersHurdles>
+            <DiscusThrow>21.60</DiscusThrow>
+            <PoleVault>2.60</PoleVault>
+            <JavelinThrow>35.81</JavelinThrow>
+            <ThousandFiveHundredMetersRun>5.25.72</ThousandFiveHundredMetersRun>
+        </Disciplines>
+        <TotalScore>4205</TotalScore>
+    </Participant>
+    <Participant>
+        <Place>2-3</Place>
+        <Name>Jaan Lepp</Name>
+        <Disciplines>
+            <HundredMetersRun>13.04</HundredMetersRun>
+            <LongJump>4.53</LongJump>
+            <ShotPut>7.79</ShotPut>
+            <HighJump>1.55</HighJump>
+            <FourHundredMetersRun>64.72</FourHundredMetersRun>
+            <HundredTenMetersHurdles>18.74</HundredTenMetersHurdles>
+            <DiscusThrow>24.20</DiscusThrow>
+            <PoleVault>2.40</PoleVault>
+            <JavelinThrow>28.20</JavelinThrow>
+            <ThousandFiveHundredMetersRun>6.50.76</ThousandFiveHundredMetersRun>
+        </Disciplines>
+        <TotalScore>3205</TotalScore>
+    </Participant>
+    <Participant>
+        <Place>2-3</Place>
+        <Name>Jane Doe</Name>
+        <Disciplines>
+            <HundredMetersRun>13.04</HundredMetersRun>
+            <LongJump>4.53</LongJump>
+            <ShotPut>7.79</ShotPut>
+            <HighJump>1.55</HighJump>
+            <FourHundredMetersRun>64.72</FourHundredMetersRun>
+            <HundredTenMetersHurdles>18.74</HundredTenMetersHurdles>
+            <DiscusThrow>24.20</DiscusThrow>
+            <PoleVault>2.40</PoleVault>
+            <JavelinThrow>28.20</JavelinThrow>
+            <ThousandFiveHundredMetersRun>6.50.76</ThousandFiveHundredMetersRun>
+        </Disciplines>
+        <TotalScore>3205</TotalScore>
+    </Participant>
+    <Participant>
+        <Place>4</Place>
+        <Name>Foo Bar</Name>
+        <Disciplines>
+            <HundredMetersRun>13.43</HundredMetersRun>
+            <LongJump>4.35</LongJump>
+            <ShotPut>8.64</ShotPut>
+            <HighJump>1.50</HighJump>
+            <FourHundredMetersRun>66.06</FourHundredMetersRun>
+            <HundredTenMetersHurdles>19.05</HundredTenMetersHurdles>
+            <DiscusThrow>24.89</DiscusThrow>
+            <PoleVault>2.20</PoleVault>
+            <JavelinThrow>33.48</JavelinThrow>
+            <ThousandFiveHundredMetersRun>6.51.01</ThousandFiveHundredMetersRun>
+        </Disciplines>
+        <TotalScore>3104</TotalScore>
+    </Participant>
+</Scoreboard>
